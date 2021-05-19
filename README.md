@@ -1,4 +1,2 @@
-# myFirstSpring 
-
-TEST 
-Hi to all
+# myFirstSpring
+Hi to all this is myFirstSpringProject
